@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Loginnav{
+    background-color:#ffffff;
+    width: 100%;
+    height: 60px;
+}
+
+.Loginnav img{
+    margin-left: 10px;
+    padding: 20px
+}
+
+#formbg{
+    background-size: cover;
+    background-color: #ededf2;
+    width: 100%;
+    height: 700px;
+    margin-bottom: 10px;
+}
+
+.Login{
+    font-family: roboto;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.formbg2{
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 40%;
+    background-color: rgba(212, 207, 207, 0.275);
+    margin-bottom: 50px;
+    margin-left: 300px;
+    height: 600px;
+    box-shadow: inset;
+}
+
+.Learnmore p{
+    padding-left: 30px;
+    
+    font-size: small;
+    font-family: roboto;
+}
+
+.Learnmore a{
+    text-decoration: none;
+    color:#7288ec;
+}
+
+input{
+    border: gray;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px ;
+    background-color: white;
+    outline: none;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.email p{
+    padding-left: 20px;
+    font-size: smaller;
+    font-family: roboto;
+    padding-top: 10px;
+}
+
+.password p{
+    font-family: roboto;
+    font-size: smaller;
+    padding-left: 20px;
+}
+
+button{
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border-radius: 5px ;
+    background-color: gray;
+    border: none;
+    margin: 20px;
+    color: white;
+    padding-top: 15px;
+}
+ button a {
+    text-decoration: none;
+    padding-top: 50px;
+    color: white;
+ }
+#Forgot a{
+    padding-left: 20px;
+    text-decoration: none;
+    font-family: roboto;
+    color: #7288ec
+}
+
+.anaccount{
+    padding: 70px;
+    font-family: roboto;
+    color:gray
+    
+}
+
+.anaccount a {
+    padding: 10px;
+    font-family: roboto;
+    text-decoration: none;
+}
+
+footer ul{
+    
+    padding-left: 300px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    list-style: none;
+    font-family: roboto;
+    font-size: smaller;
+    color: gray;
+}
+
+footer a{
+    text-decoration: none;
+    text-align: center  ;
+    color: gray;
+}
+
